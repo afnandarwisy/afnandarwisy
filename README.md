@@ -32,7 +32,7 @@
 | 🍔 [Burger Consumer Analysis](https://github.com/afnandarwisy/Projects/tree/588a423ee6897278620d325c89712fd79ccedbf8/Burger%20Analysis) | Analyzed consumer preferences and satisfaction using survey data | IBM SPSS, Excel |
 | 💳 [Credit Card Customer Churn](https://github.com/afnandarwisy/Projects/tree/588a423ee6897278620d325c89712fd79ccedbf8/Credit%20card%20customer%20churn) | Predicted customer churn using logistic regression and visualization | RStudio |
 | 🧾 [Power BI Superstore Dashboard](https://github.com/afnandarwisy/Projects/tree/588a423ee6897278620d325c89712fd79ccedbf8/Power%20BI) | Built an interactive dashboard for sales & profit insights | Python, Power BI |
-| 🧮 [Python for Data Science Practice](https://github.com/afnandarwisy/Projects/tree/588a423ee6897278620d325c89712fd79ccedbf8/FYP) | Football Prediction using statistical techniques | IBM SPSS, Excel |
+| 🧮 [Final Year Project](https://github.com/afnandarwisy/Projects/tree/588a423ee6897278620d325c89712fd79ccedbf8/FYP) | Football Prediction using statistical techniques | IBM SPSS, Excel |
 
 > 💼 *All projects are focused on practical data cleaning, analysis and visualization.*
 
