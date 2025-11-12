@@ -18,7 +18,7 @@
 
 | Category | Tools |
 |-----------|--------|
-| **Data Analysis** | Python (Pandas, NumPy), RStudio (dplyr) Excel, Power Query |
+| **Data Analysis** | Python (Pandas, NumPy), RStudio (dplyr), Excel, Power Query |
 | **Visualization** | Power BI, Matplotlib, ggplot |
 | **Database** | SQL (beginner) |
 | **Reporting** | Dashboard Design, Data Cleaning, KPI Tracking |
