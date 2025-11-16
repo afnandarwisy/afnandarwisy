@@ -41,7 +41,7 @@
 ### 📈 My Learning Journey
 - ✅ Completed: IBM Data Analyst Professional Certificate  
 - 🚀 Currently: Business Analytics Specialization from University of Illinois at Urbana-Champaign  
-- 🎯 Next Goal: Learn SQL joins, build real-time data dashboards  
+- 🎯 Next Goal: Learn advanced SQL, build real-time data dashboards  
 
 ---
 
