@@ -40,7 +40,7 @@
 
 ### 📈 My Learning Journey
 - ✅ Completed: IBM Data Analyst Professional Certificate  
-- 🚀 Currently: Business Analytics Specialization from University of Illinois at Urbana-Champaign  
+- 🚀 Currently: Enrolling in Business Analytics Specialization from The University of Illinois Urbana-Champaign
 - 🎯 Next Goal: Learn advanced SQL, build real-time data dashboards  
 
 ---
@@ -51,4 +51,4 @@
 ---
 
 ### ⚡ Fun Fact
-I believe good data analytics is like detective work where the truth is always in the details 🔍
+I believe good data analytics is like detective work where the truth is always in the details.
