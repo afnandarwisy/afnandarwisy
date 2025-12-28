@@ -1,13 +1,12 @@
 ## 👋 Hi folks, I'm Afnan Darwisy  
 
-🎯 **Aspiring Data Analyst | Skilled in Python, Excel & Power BI**  
+🎯 **Data Analyst | Skilled in Python, Excel & Power BI**  
 📍 Based in Kuala Lumpur, Malaysia  
 
 ---
 
 ### 🧠 About Me
 - 💼 Currently working in **Finance & Customer Analysis** at *Pharma Nord Malaysia*
-- 📊 Learning and building projects in **Data Analytics** to transition into a full-time analytics role
 - 🧮 Skilled in analyzing sales performance, customer behavior and financial data  
 - 🌱 Exploring automation, dashboarding and business intelligence tools  
 - 💡 I enjoy transforming raw data into impactful insights
@@ -40,7 +39,7 @@
 
 ### 📈 My Learning Journey
 - ✅ Completed: IBM Data Analyst Professional Certificate  
-- 🚀 Currently: Enrolling in Business Analytics Specialization from The University of Illinois Urbana-Champaign
+- ✅ Completed: Business Analytics Specialization from The University of Illinois Urbana-Champaign
 - 🎯 Next Goal: Learn advanced SQL, build real-time data dashboards  
 
 ---
